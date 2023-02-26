@@ -17,6 +17,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun githubFun(){
-        print("fuck it...")
+
     }
 }
