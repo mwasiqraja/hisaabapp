@@ -17,7 +17,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun githubFun(){
-
-        again fucking up
+fljsdklfjsdljflsdk
     }
 }
