@@ -13,5 +13,6 @@ class MainMenu : AppCompatActivity() {
     }
     fun implAds(){
         print("All Ads are implemented....")
+        print("All Ads are implemented2....")
     }
 }
